@@ -1,0 +1,7 @@
+sku,_tier_price_website,_tier_price_customer_group,_tier_price_qty,_tier_price_price
+ITEM1,base,all,100,9.99
+,base,all,500,8.99
+,base,all,1000,8.49
+,base,all,2500,7.99
+,base,all,5000,6.99
+,base,all,10000,5.49
